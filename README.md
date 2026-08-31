@@ -2,6 +2,12 @@
 # 📊 Análise de Dados Aplicada ao Setor Energético
 
 ## Ciência da Computação — Soluções em Energias Renováveis e Sustentáveis - 1CCPJ
+integrantes:
+André Fujinaga - RM569158
+Arthur Machado - RM569919
+Conrado Gracie - RM569157
+Guilherme Belo - RM570079
+Renato Sandreschi - RM569156
 
 Este projeto reúne dois desafios desenvolvidos com o objetivo de aplicar conceitos de **análise de dados, tratamento de informações, estatística e visualização gráfica** em problemas relacionados ao consumo e à geração de energia.
 
